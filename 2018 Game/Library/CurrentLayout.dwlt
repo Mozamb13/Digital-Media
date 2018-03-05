@@ -110,7 +110,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 442}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 2170
+  controlID: 78
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -135,7 +135,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 12042}
   vertical: 1
-  controlID: 2022
+  controlID: 79
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -156,13 +156,13 @@ MonoBehaviour:
     height: 357
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 14}
+  m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
   - {fileID: 16}
   - {fileID: 14}
-  m_Selected: 2
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 2
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -206,8 +206,8 @@ MonoBehaviour:
     y: 681
     width: 823
     height: 121
-  m_MinSize: {x: 102, y: 121}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -231,8 +231,8 @@ MonoBehaviour:
     y: 0
     width: 217
     height: 802
-  m_MinSize: {x: 204, y: 221}
-  m_MaxSize: {x: 4004, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -261,7 +261,7 @@ MonoBehaviour:
   m_MinSize: {x: 277, y: 342}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 2171
+  controlID: 148
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -445,13 +445,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.0843572, y: 0.9152366, z: -0.29247898, w: 0.26397407}
+    m_Target: {x: 0.06559682, y: 0.9328666, z: -0.27666306, w: 0.2211824}
     speed: 2
-    m_Value: {x: 0.0843572, y: 0.9152366, z: -0.29247898, w: 0.26397407}
+    m_Value: {x: 0.065596595, y: 0.93286335, z: -0.2766621, w: 0.22118165}
   m_Size:
-    m_Target: 41.23917
+    m_Target: 31.785936
     speed: 2
-    m_Value: 41.23917
+    m_Value: 31.785936
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -518,7 +518,7 @@ MonoBehaviour:
     m_KeySerializationHelper:
     - {fileID: 1107444951977678008, guid: acb4e5c92b2b94287a210cbbe847eb19, type: 2}
     m_ValueSerializationHelper:
-    - {x: 444.6, y: 182.57812}
+    - {x: 558.60004, y: 168.79999}
   m_PreviewAnimator: {fileID: 0}
   m_AnimatorController: {fileID: 0}
   m_BreadCrumbs: []
@@ -586,9 +586,9 @@ MonoBehaviour:
     height: 781
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 34520000
+    m_SelectedIDs: e6550000
     m_LastClickedID: 0
-    m_ExpandedIDs: 14fcffff18fcffff1afcffff00000000
+    m_ExpandedIDs: f8fbffff14fcffff1afcffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -682,20 +682,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets
+    - Assets/Resources/skyb1
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Resources/skyb1
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/corbinwalker/Documents/Digital Media/Digital-Media/2018
     Game
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: f0250000
-    m_LastClickedID: 9712
-    m_ExpandedIDs: 00000000f025000000ca9a3bffffff7f
+    m_SelectedIDs: e6550000
+    m_LastClickedID: 21990
+    m_ExpandedIDs: 00000000d2370000f255000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -723,7 +723,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000f025000000ca9a3bffffff7f
+    m_ExpandedIDs: 00000000d2370000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

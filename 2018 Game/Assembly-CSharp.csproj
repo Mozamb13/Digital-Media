@@ -51,7 +51,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\JumpBehaviour.cs" />
      <Compile Include="Assets\OnEnterBehaviour.cs" />
+     <Compile Include="Assets\OnExitBehaviour.cs" />
+     <Compile Include="Assets\Resources\Scripts\rotate.cs" />
      <Compile Include="Assets\Unite Code\Elements\AttackElement.cs" />
      <Compile Include="Assets\Unite Code\Elements\Elemental.cs" />
      <Compile Include="Assets\Unite Code\Events\GameEvent.cs" />
