@@ -51,11 +51,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Unite2017-master\Assets\Code\Events\Editor\EventEditor.cs" />
-     <Compile Include="Assets\Unite2017-master\Assets\Code\Variables\Editor\FloatReferenceDrawer.cs" />
-     <None Include="Assets\Unite2017-master\Library\LastSceneManagerSetup.txt" />
-     <None Include="Assets\Unite2017-master\Library\LibraryFormatVersion.txt" />
-     <None Include="Assets\Unite2017-master\ProjectSettings\ProjectVersion.txt" />
+     <Compile Include="Assets\Unite Code\Events\Editor\EventEditor.cs" />
+     <Compile Include="Assets\Unite Code\Variables\Editor\FloatReferenceDrawer.cs" />
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
  </Reference>
@@ -115,12 +112,6 @@
  </Reference>
  <Reference Include="UnityEditor.OSXStandalone.Extensions">
  <HintPath>/Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
- </Reference>
- <Reference Include="Assembly-CSharp">
- <HintPath>/Users/corbinwalker/Documents/Digital Media/Digital-Media/2018 Game/Assets/Unite2017-master/Library/ScriptAssemblies/Assembly-CSharp.dll</HintPath>
- </Reference>
- <Reference Include="Assembly-CSharp-Editor">
- <HintPath>/Users/corbinwalker/Documents/Digital Media/Digital-Media/2018 Game/Assets/Unite2017-master/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>

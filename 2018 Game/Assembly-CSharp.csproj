@@ -51,33 +51,31 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Unite2017-master\Assets\Code\Elements\AttackElement.cs" />
-     <Compile Include="Assets\Unite2017-master\Assets\Code\Elements\Elemental.cs" />
-     <Compile Include="Assets\Unite2017-master\Assets\Code\Events\GameEvent.cs" />
-     <Compile Include="Assets\Unite2017-master\Assets\Code\Events\GameEventListener.cs" />
-     <Compile Include="Assets\Unite2017-master\Assets\Code\Sets\RuntimeSet.cs" />
-     <Compile Include="Assets\Unite2017-master\Assets\Code\Sets\Thing.cs" />
-     <Compile Include="Assets\Unite2017-master\Assets\Code\Sets\ThingDisabler.cs" />
-     <Compile Include="Assets\Unite2017-master\Assets\Code\Sets\ThingMonitor.cs" />
-     <Compile Include="Assets\Unite2017-master\Assets\Code\Sets\ThingRuntimeSet.cs" />
-     <Compile Include="Assets\Unite2017-master\Assets\Code\Variables\AnimatorParameterSetter.cs" />
-     <Compile Include="Assets\Unite2017-master\Assets\Code\Variables\AudioParameterSetter.cs" />
-     <Compile Include="Assets\Unite2017-master\Assets\Code\Variables\AudioVolumeSetter.cs" />
-     <Compile Include="Assets\Unite2017-master\Assets\Code\Variables\DamageDealer.cs" />
-     <Compile Include="Assets\Unite2017-master\Assets\Code\Variables\FloatReference.cs" />
-     <Compile Include="Assets\Unite2017-master\Assets\Code\Variables\FloatVariable.cs" />
-     <Compile Include="Assets\Unite2017-master\Assets\Code\Variables\ImageFillSetter.cs" />
-     <Compile Include="Assets\Unite2017-master\Assets\Code\Variables\KeyboardMover.cs" />
-     <Compile Include="Assets\Unite2017-master\Assets\Code\Variables\SimpleUnitHealth.cs" />
-     <Compile Include="Assets\Unite2017-master\Assets\Code\Variables\SliderSetter.cs" />
-     <Compile Include="Assets\Unite2017-master\Assets\Code\Variables\StringVariable.cs" />
-     <Compile Include="Assets\Unite2017-master\Assets\Code\Variables\TextReplacer.cs" />
-     <Compile Include="Assets\Unite2017-master\Assets\Code\Variables\UnitHealth.cs" />
-     <Compile Include="Assets\Unite2017-master\Assets\Code\Variables\UnityEventRaiser.cs" />
-     <Compile Include="Assets\Unite2017-master\Assets\Code\Variables\VariableAudioTrigger.cs" />
-     <None Include="Assets\Unite2017-master\Library\LastSceneManagerSetup.txt" />
-     <None Include="Assets\Unite2017-master\Library\LibraryFormatVersion.txt" />
-     <None Include="Assets\Unite2017-master\ProjectSettings\ProjectVersion.txt" />
+     <Compile Include="Assets\OnEnterBehaviour.cs" />
+     <Compile Include="Assets\Unite Code\Elements\AttackElement.cs" />
+     <Compile Include="Assets\Unite Code\Elements\Elemental.cs" />
+     <Compile Include="Assets\Unite Code\Events\GameEvent.cs" />
+     <Compile Include="Assets\Unite Code\Events\GameEventListener.cs" />
+     <Compile Include="Assets\Unite Code\Sets\RuntimeSet.cs" />
+     <Compile Include="Assets\Unite Code\Sets\Thing.cs" />
+     <Compile Include="Assets\Unite Code\Sets\ThingDisabler.cs" />
+     <Compile Include="Assets\Unite Code\Sets\ThingMonitor.cs" />
+     <Compile Include="Assets\Unite Code\Sets\ThingRuntimeSet.cs" />
+     <Compile Include="Assets\Unite Code\Variables\AnimatorParameterSetter.cs" />
+     <Compile Include="Assets\Unite Code\Variables\AudioParameterSetter.cs" />
+     <Compile Include="Assets\Unite Code\Variables\AudioVolumeSetter.cs" />
+     <Compile Include="Assets\Unite Code\Variables\DamageDealer.cs" />
+     <Compile Include="Assets\Unite Code\Variables\FloatReference.cs" />
+     <Compile Include="Assets\Unite Code\Variables\FloatVariable.cs" />
+     <Compile Include="Assets\Unite Code\Variables\ImageFillSetter.cs" />
+     <Compile Include="Assets\Unite Code\Variables\KeyboardMover.cs" />
+     <Compile Include="Assets\Unite Code\Variables\SimpleUnitHealth.cs" />
+     <Compile Include="Assets\Unite Code\Variables\SliderSetter.cs" />
+     <Compile Include="Assets\Unite Code\Variables\StringVariable.cs" />
+     <Compile Include="Assets\Unite Code\Variables\TextReplacer.cs" />
+     <Compile Include="Assets\Unite Code\Variables\UnitHealth.cs" />
+     <Compile Include="Assets\Unite Code\Variables\UnityEventRaiser.cs" />
+     <Compile Include="Assets\Unite Code\Variables\VariableAudioTrigger.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
@@ -98,12 +96,6 @@
  </Reference>
  <Reference Include="UnityEngine.HoloLens">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
- </Reference>
- <Reference Include="Assembly-CSharp">
- <HintPath>/Users/corbinwalker/Documents/Digital Media/Digital-Media/2018 Game/Assets/Unite2017-master/Library/ScriptAssemblies/Assembly-CSharp.dll</HintPath>
- </Reference>
- <Reference Include="Assembly-CSharp-Editor">
- <HintPath>/Users/corbinwalker/Documents/Digital Media/Digital-Media/2018 Game/Assets/Unite2017-master/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
