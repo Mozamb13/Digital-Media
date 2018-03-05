@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 053e17ebe4dcd485ba9a42f2951c4e02
+timeCreated: 1520218242
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Back01_Jnt
+    100002: camera2
+    100004: Head_Ctrl
+    100006: Head_Grp
+    100008: Head_Jnt
+    100010: Jim_sAX_Geo
+    100012: //RootNode
+    100014: L_Arm
+    100016: L_Arm01
+    100018: L_Arm02
+    100020: L_Elbow_Ctrl
+    100022: L_Elbow_Ctrl 1
+    100024: L_Elbow_Grp
+    100026: L_Elbow_Jnt
+    100028: L_Hand
+    100030: L_Shoulder_Ctrl
+    100032: L_Shoulder_Grp
+    100034: L_Shoulder_Jnt
+    100036: L_Wrist_Ctrl
+    100038: L_Wrist_Ctrl 1
+    100040: L_Wrist_Grp
+    100042: L_Wrist_Grp 1
+    100044: L_Wrist_Jnt
+    100046: pCube1
+    100048: pCube2
+    100050: pCube3
+    100052: pCylinder1
+    100054: pCylinder2
+    100056: pCylinder3
+    100058: pCylinder4
+    100060: R_Arm
+    100062: R_Arm01
+    100064: R_Arm02
+    100066: R_Elbow_Grp
+    100068: R_Elbow_Jnt
+    100070: R_Hand
+    100072: R_Shoulder_Ctrl
+    100074: R_Shoulder_Grp
+    100076: R_Shoulder_Jnt
+    100078: R_Wrist_Jnt
+    100080: rstPersonJim
+    100082: rstPersonJim_Geo_Grp
+    100084: rstPersonJim_Jnt
+    100086: Spine__Ctrl_Grp
+    100088: Spine_Ctrl
+    100090: Spine_Jnt_Grp
+    100092: Torso
+    100094: transform1
+    100096: transform2
+    400000: Back01_Jnt
+    400002: camera2
+    400004: Head_Ctrl
+    400006: Head_Grp
+    400008: Head_Jnt
+    400010: Jim_sAX_Geo
+    400012: //RootNode
+    400014: L_Arm
+    400016: L_Arm01
+    400018: L_Arm02
+    400020: L_Elbow_Ctrl
+    400022: L_Elbow_Ctrl 1
+    400024: L_Elbow_Grp
+    400026: L_Elbow_Jnt
+    400028: L_Hand
+    400030: L_Shoulder_Ctrl
+    400032: L_Shoulder_Grp
+    400034: L_Shoulder_Jnt
+    400036: L_Wrist_Ctrl
+    400038: L_Wrist_Ctrl 1
+    400040: L_Wrist_Grp
+    400042: L_Wrist_Grp 1
+    400044: L_Wrist_Jnt
+    400046: pCube1
+    400048: pCube2
+    400050: pCube3
+    400052: pCylinder1
+    400054: pCylinder2
+    400056: pCylinder3
+    400058: pCylinder4
+    400060: R_Arm
+    400062: R_Arm01
+    400064: R_Arm02
+    400066: R_Elbow_Grp
+    400068: R_Elbow_Jnt
+    400070: R_Hand
+    400072: R_Shoulder_Ctrl
+    400074: R_Shoulder_Grp
+    400076: R_Shoulder_Jnt
+    400078: R_Wrist_Jnt
+    400080: rstPersonJim
+    400082: rstPersonJim_Geo_Grp
+    400084: rstPersonJim_Jnt
+    400086: Spine__Ctrl_Grp
+    400088: Spine_Ctrl
+    400090: Spine_Jnt_Grp
+    400092: Torso
+    400094: transform1
+    400096: transform2
+    2000000: camera2
+    2300000: L_Arm
+    2300002: L_Arm01
+    2300004: L_Arm02
+    2300006: L_Hand
+    2300008: pCube1
+    2300010: pCube2
+    2300012: pCube3
+    2300014: pCylinder1
+    2300016: pCylinder2
+    2300018: pCylinder3
+    2300020: pCylinder4
+    2300022: R_Arm
+    2300024: R_Arm01
+    2300026: R_Arm02
+    2300028: R_Hand
+    2300030: Torso
+    3300000: L_Arm
+    3300002: L_Arm01
+    3300004: L_Arm02
+    3300006: L_Hand
+    3300008: pCube1
+    3300010: pCube2
+    3300012: pCube3
+    3300014: pCylinder1
+    3300016: pCylinder2
+    3300018: pCylinder3
+    3300020: pCylinder4
+    3300022: R_Arm
+    3300024: R_Arm01
+    3300026: R_Arm02
+    3300028: R_Hand
+    3300030: Torso
+    4300000: pCylinder4
+    4300002: pCylinder3
+    4300004: pCylinder2
+    4300006: pCylinder1
+    4300008: pCube3
+    4300010: pCube2
+    4300012: pCube1
+    4300014: R_Hand
+    4300016: L_Hand
+    4300018: Torso
+    4300020: R_Arm02
+    4300022: R_Arm01
+    4300024: R_Arm
+    4300026: L_Arm01
+    4300028: L_Arm02
+    4300030: L_Arm
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 1
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
