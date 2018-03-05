@@ -215,7 +215,7 @@ Prefab:
     - target: {fileID: 198297824301316544, guid: 838f32397f04ce14898c08a95c9dbae0,
         type: 2}
       propertyPath: ShapeModule.radius.value
-      value: 3
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 198297824301316544, guid: 838f32397f04ce14898c08a95c9dbae0,
         type: 2}
