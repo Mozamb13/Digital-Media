@@ -1,8 +1,8 @@
 print "Starting maya loading and fbx conversion \n";
 	
-if (`file -q -exists "/Users/corbinwalker/Documents/Digital Media/Digital-Media/2018 Game/Assets/Resources/MayaModels/cratermesh.ma"`)
+if (`file -q -exists "/Users/corbinwalker/Documents/Digital Media/Digital-Media/2018 Game/Assets/Jim_WhiteboxAnimation_Idle.ma"`)
 {		
-	file -o "/Users/corbinwalker/Documents/Digital Media/Digital-Media/2018 Game/Assets/Resources/MayaModels/cratermesh.ma";
+	file -o "/Users/corbinwalker/Documents/Digital Media/Digital-Media/2018 Game/Assets/Jim_WhiteboxAnimation_Idle.ma";
 	FBXExportEmbeddedTextures -v false;
 	// FBXExportHardEdges -v true;
 	FBXExportApplyConstantKeyReducer -v false;
