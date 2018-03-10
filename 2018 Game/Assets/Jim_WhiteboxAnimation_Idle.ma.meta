@@ -154,7 +154,7 @@ ModelImporter:
     4300026: L_Arm01
     4300028: L_Arm02
     4300030: L_Arm
-    7400000: Take 001
+    7400000: Idle
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -181,9 +181,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Take 001
+      name: Idle
       takeName: Take 001
-      firstFrame: 514
+      firstFrame: 233
       lastFrame: 837
       wrapMode: 0
       orientationOffsetY: 0
