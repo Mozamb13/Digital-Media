@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scene/Jim Animation.unity
+- path: Assets/Fear Assignment/Fear.unity
   isLoaded: 1
   isActive: 1
